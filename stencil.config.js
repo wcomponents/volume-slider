@@ -1,5 +1,5 @@
 exports.config = {
-  namespace: 'mycomponent',
+  namespace: 'volumeslider',
   outputTargets:[
     { 
       type: 'dist' 
